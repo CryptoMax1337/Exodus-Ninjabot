@@ -79,4 +79,3 @@ Chart available at http://localhost:8080
   - [x] Heikin Ashi candle type support
   - [x] Trailing stop tool
   - [x] In app order scheduler
- 
